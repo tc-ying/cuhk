@@ -1,0 +1,32 @@
+List of Stock Codes @ HKEx
+http://www.hkex.com.hk/eng/market/sec_tradinfo/stockcode/eisdeqty.htm
+
+Historical Stock Price URL template @ http://hk.finance.yahoo.com/q/hp?s=0001.HK
+http://ichart.yahoo.com/table.csv?s=0001.HK&d=10&e=5&f=2010&g=d&a=0&b=1&c=2003&ignore=.csv
+Symbol = s, from Month = a + 1, Day = b Year = c, to Month = d + 1, Day = e, Year = f
+Special Symbol = {^HSI, ^GSPC, ^DJI, ^IXIC, ^HSCE, 000001.SS, ^FTSE, ^N225}
+(HSI, S&P500, DJIA, Nasdaq, HSCE, SSE Composite, FTSE, Nikkei}
+
+Securities Statistics Archive @ HKEx
+http://www.hkex.com.hk/eng/stat/smstat/statarch/statarchive.htm
+Daily trading value, volume and number of deals
+
+Designated Securities Eligible for Short Selling @ HKEx
+http://www.hkex.com.hk/eng/market/sec_tradinfo/stkcdorder.htm
+
+Company/Securities Profile
+http://www.hkex.com.hk/eng/invest/company/profilemenu_page_e.asp
+
+List of Securities Market Makers and Listed ETFs @ HKEx
+http://www.hkex.com.hk/eng/prod/secprod/etf/SMM_List.htm
+
+Trading Calendar and Trading Hours
+http://www.hkex.com.hk/eng/market/sec_tradinfo/tradcal/tradcal.htm
+
+Free Historical Trade Data
+http://www.tradingblox.com/tradingblox/free-historical-data.htm
+
+http://www.theice.com/publicdocs/futures_us_reports/usd_index/DX.xls
+
+Historical US Dollar / Hong Kong Dollar (USD/HKD)
+http://www.mataf.net/en/histo/USD-HKD

@@ -1,0 +1,25 @@
+Relation Name:  QueryResult-weka.filters.unsupervised.attribute.AddID-C1-Nt-weka.filters.unsupervised.attribute.AddExpression-Esin(a1/6)-Nexpression-weka.filters.unsupervised.attribute.AddExpression-Esin(a1/4)-Nexpression-weka.filters.unsupervised.attribute.AddExpression-Eexp(a1/20)-Nexpression-weka.filters.unsupervised.attribute.NumericToNominal-R14
+Num Instances:  1254
+Num Attributes: 17
+
+     Name                      Type  Nom  Int Real     Missing      Unique  Dist
+   1 ema8slope                  Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   2 ema13slope                 Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   3 ema18slope                 Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   4 sma22slope                 Num   0%   0% 100%     0 /  0%  1252 /100%  1253 
+   5 rocp5                      Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   6 rocp6                      Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   7 devema8                    Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   8 devema16                   Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   9 devsma9                    Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+  10 devsma22                   Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+  11 devsma10                   Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+  12 gap                        Num   0%   2%  98%     0 /  0%  1230 / 98%  1231 
+  13 rsi13                      Num   0%   0% 100%     0 /  0%  1209 / 96%  1231 
+  14 5bottom                    Nom 100%   0%   0%     0 /  0%     0 /  0%     3 
+  15 sin(a1/6)                  Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+  16 sin(a1/4)                  Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+  17 exp(a1/20)                 Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+
+K, WindowSize, Precision, Recall, F1
+3, 540, 0.731, 0.698, 0.714

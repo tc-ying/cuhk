@@ -1,0 +1,13 @@
+Trading Volume, FROM 1990-04-02 TO 2010-11-30
+
+Turnover, volume, number of deals series of the whole Hong Kong equity market.
+44 half trading days out of 5111
+
+_hsi, FROM 1986-12-31 TO 2010-12-23, 5956 days.
+
+OHLC, volume series of HSI.
+Volume not available until 2010-07-09.
+mising volumes: 2001-09-12 to 2001-09-18, 2006-12-27, 2007-03-16, 2007-05-29,
+2009-11-10, 2009-12-07, 2009-12-30, 2010-02-10, 2010-02-23
+
+For non-trading day, either date is missing or volume is zero.

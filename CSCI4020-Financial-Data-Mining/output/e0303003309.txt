@@ -1,0 +1,21 @@
+Relation Name:  QueryResult-weka.filters.unsupervised.attribute.AddID-C1-Nt-weka.filters.unsupervised.attribute.AddExpression-Eexp(a1/10)-Nexpression-weka.filters.unsupervised.attribute.NumericToNominal-R12
+Num Instances:  1254
+Num Attributes: 13
+
+     Name                      Type  Nom  Int Real     Missing      Unique  Dist
+   1 ema8slope                  Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   2 ema13slope                 Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   3 ema18slope                 Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   4 sma22slope                 Num   0%   0% 100%     0 /  0%  1252 /100%  1253 
+   5 rocp5                      Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   6 rocp6                      Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   7 devema8                    Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   8 devema16                   Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+   9 devsma9                    Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+  10 devsma22                   Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+  11 devsma10                   Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+  12 5bottom                    Nom 100%   0%   0%     0 /  0%     0 /  0%     3 
+  13 exp(a1/10)                 Num   0%   0% 100%     0 /  0%  1254 /100%  1254 
+
+K, WindowSize, Precision, Recall, F1
+3, 45, 0.706, 0.670, 0.687
